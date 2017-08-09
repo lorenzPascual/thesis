@@ -8,3 +8,13 @@ C:\practicesonar\Sonar\SAS\Admin\bin\Debug\EntityFramework.SqlServer.xml
 C:\practicesonar\Sonar\SAS\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
 C:\practicesonar\Sonar\SAS\Admin\obj\Debug\Admin.dll
 C:\practicesonar\Sonar\SAS\Admin\obj\Debug\Admin.pdb
+C:\SAS\SAS\Admin\bin\Debug\Admin.dll.config
+C:\SAS\SAS\Admin\bin\Debug\Admin.dll
+C:\SAS\SAS\Admin\bin\Debug\Admin.pdb
+C:\SAS\SAS\Admin\bin\Debug\EntityFramework.dll
+C:\SAS\SAS\Admin\bin\Debug\EntityFramework.SqlServer.dll
+C:\SAS\SAS\Admin\bin\Debug\EntityFramework.xml
+C:\SAS\SAS\Admin\bin\Debug\EntityFramework.SqlServer.xml
+C:\SAS\SAS\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\SAS\SAS\Admin\obj\Debug\Admin.dll
+C:\SAS\SAS\Admin\obj\Debug\Admin.pdb
